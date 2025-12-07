@@ -6,9 +6,9 @@
   **GPU-accelerated upscaling and frame generation for macOS**
   
   [![macOS](https://img.shields.io/badge/macOS-26.0%2B-blue?logo=apple)](https://www.apple.com/macos/)
-  [![Metal](https://img.shields.io/badge/Metal-3.0-orange?logo=apple)](https://developer.apple.com/metal/)
+  [![Metal](https://img.shields.io/badge/Metal-4.0-orange?logo=apple)](https://developer.apple.com/metal/)
   [![License](https://img.shields.io/badge/License-GPL--3.0-green)](LICENSE)
-  [![Swift](https://img.shields.io/badge/Swift-5.9-FA7343?logo=swift)](https://swift.org)
+  [![Swift](https://img.shields.io/badge/Swift-6.2-FA7343?logo=swift)](https://swift.org)
   
   [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Requirements](#requirements) • [Building](#building) • [License](#license)
 </div>
